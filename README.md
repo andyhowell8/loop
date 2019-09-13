@@ -10,7 +10,7 @@ Core, and btcd.
 
 In the current iteration of the Loop software, two swap types are supported:
   * off-chain to on-chain, where the Loop client sends funds off-chain in
-  * on-chain to off-chain, where teh Loop client sends funds to an on-chain
+  * on-chain to off-chain, where the Loop client sends funds to an on-chain
     address using an off-chain channel
 
 We call off-chain to on-chain swaps, a **Loop Out**.  The service can be used
